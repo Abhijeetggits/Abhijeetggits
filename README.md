@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhijeetggits&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhijeetggits" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.pixabay.com/animation/2022/10/25/11/48/11-48-26-444_512.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.pixabay.com/animation/2022/10/25/11/48/11-48-26-444_512.gif">
 
 ### 🚀 About Me
 
@@ -28,7 +28,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,git,mysql,mongodb,postman,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,docker,git,mysql,mongodb,postman,aws&perline=10" />
 </p>
 
 <p align="left">
