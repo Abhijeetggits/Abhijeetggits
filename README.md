@@ -1,6 +1,32 @@
 <table border="0">
   <tr>
     <td width="300" align="center">
+      <img src="https://github.com/Abhijeetggits.png" width="220" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <br><br>
+      <h2 style="margin: 0; padding: 0; color: #333;">Abhijeet Patel</h2>
+      <p style="margin: 5px 0 0 0; color: #666; font-size: 1.1em;">Aspiring AI/ML Engineer</p>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h1 style="margin-top: 0; color: #111;">Hey! Nice to see you. <span style="font-size: 1.2em;">👋</span></h1>
+      <h3 style="margin: 15px 0 5px 0; color: #222;">Hi, I'm Abhijeet Patel</h3>
+      <p style="margin: 5px 0 15px 0; color: #444; font-size: 1.05em; line-height: 1.5;">I am passionate about <b>Machine Learning, MLOps, and End-to-End Deployment.</b></p>
+      <ul style="color: #444; font-size: 1.05em; line-height: 1.6;">
+        <li>🔭 Currently working on <b>Phishing Website Detection</b></li>
+        <li>🌱 Learning more about <b>Deep Learning & Neural Networks</b></li>
+        <li>⚡ Fun fact: I love solving complex technical problems!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="margin-top: 25px;">
+  <img src="1.jpg" width="65%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+</p>
+
+---
+<table border="0">
+  <tr>
+    <td width="300" align="center">
       <img src="https://github.com/Abhijeetggits.png" width="250" style="border-radius: 50%;">
       <br>
       <h3>Abhijeet Patel</h3>
