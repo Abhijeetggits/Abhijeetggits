@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="1.jpg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Abhijeet Patel</h1>
 <h3 align="center">Aspiring Python & ML Engineer from India 🇮🇳</h3>
 
