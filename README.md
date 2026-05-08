@@ -1,3 +1,29 @@
+<table border="0">
+  <tr>
+    <td width="300" align="center">
+      <img src="https://github.com/Abhijeetggits.png" width="250" style="border-radius: 50%;">
+      <br>
+      <h3>Abhijeet Patel</h3>
+      <p>Aspiring AI/ML Engineer</p>
+    </td>
+    <td valign="top">
+      <h1>Hey! Nice to see you. 👋</h1>
+      <h3>Hi, I'm Abhijeet Patel</h3>
+      <p>I am passionate about <b>Machine Learning, MLOps, and End-to-End Deployment.</b></p>
+      <ul>
+        <li>🔭 Currently working on <b>Phishing Website Detection</b></li>
+        <li>🌱 Learning more about <b>Deep Learning & Neural Networks</b></li>
+        <li>⚡ Fun fact: I love solving complex technical problems!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="1.jpg" width="100%">
+</p>
+
+---
 <p align="center">
   <img src="1.jpg" width="100%">
 </p>
@@ -63,3 +89,6 @@
 <a href="https://www.linkedin.com/in/itsabhijeetpatel4231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/ctc4atxpbe/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
+
+
+
